@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tfairooz
 - 👀 I’m interested in Data Analytics and Economic research.
-- 🌱 I’m currently learning Market Research using various softwares & economic time series forecasting. 
+- 🌱 I’m currently interested in Market Research/Industrial Organization using various software & economic time series forecasting. 
 - 📫 tfairooz@uh.edu
 
 <!---
