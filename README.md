@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tfairooz
+- 👋 Hi, I’m Tahsin Fairooz
 - 👀 I’m interested in Data Analytics and Economic Research.
 - 📫 tfairooz@uh.edu
 
