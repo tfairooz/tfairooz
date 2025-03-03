@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Tahsin Fairooz, studying MA in Applied Economics from University of Houston.
-- 👀 I’m interested in Data Analytics and Economic Research.
+- 👩‍💻 Hi, I’m Tahsin Fairooz 
+- 📖 studying MA in Applied Economics  
+- 🏘️ from University of Houston
+- 👀 I’m interested in applied microeconomic analysis 
+- 🪝 policy design and evaluation; quasi-experimental research methods
+- 🌾 development, health, human capital, industrial organization
 - 📫 tfairooz@uh.edu
 
 <!---
