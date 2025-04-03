@@ -1,7 +1,7 @@
 - 👩‍💻 Hi, I’m Tahsin Fairooz 
 - 📖 studying MA in Applied Economics  
 - 🏘️ from University of Houston
-- 👀 I’m interested in applied microeconomic analysis 
+- 👀 I’m interested in applied microeconomic research 
 - 🪝 policy design and evaluation; quasi-experimental research methods
 - 🌾 development, health, human capital, industrial organization
 - 📫 tfairooz@uh.edu
